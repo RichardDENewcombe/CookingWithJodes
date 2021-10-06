@@ -1,4 +1,4 @@
-#Cooking with Jodes
+# Cooking with Jodes
 
 During the pandemic my girlfriend got heavily into cooking and wanted a website she could use to share recipes with her family and keep as an online recipe book.
 
