@@ -1,0 +1,12 @@
+<section class="content">
+    <div class="editable">
+        <h1>About</h1>
+        <p>Hi there! Welcome to Cooking with Jodes. I started this website because I have always loved cooking, and I love sharing my cooking. I began making my own dishes when I was 14 years old and haven’t stopped since! I have learnt many tricks of the trade over the years, and I am still learning. My goal is to help others cook restaurant quality food at home without much difficulty. That said, I do sometimes do things a little bit differently. Professional chefs may look at my recipes and wonder ‘what is she doing?’. But I do things to my own taste and I very rarely get complaints! </p>
+        <p>For example, I love garlic. Whenever I am following a recipe, I almost always double the amount of garlic it asks for. I am also intolerant to wheat, gluten, and dairy so I try to incorporate alternatives in my recipes where I can. But sometimes you need to have cheat days! I am a sucker for pizza and until there exists a good quality, non-sticky vegan cheese that packs a punch like mature cheddar, I just cannot make the switch. I also love using wine in my dishes. I absolutely cannot make a Bolognese without a deep red wine like Merlot. It adds such a depth of flavour that I always miss when it’s not there. I’m also a huge fan of using fresh herbs over dried ones. </p>
+        <p>I am what is referred to as a flexitarian. I eat a lot of vegetarian meals, but I will only incorporate meat into it if it is what I refer to as, ‘ethical meat’. I love animals and I hate to see them suffer at the hands of poor farming. But I also understand that humans have relied on meat since the dawn of existence for certain vitamins and nutrients that help to keep us healthy. That is why I always opt for produce from Donald Russell. They are a bit more on the pricey side, but the quality of their farming standards shows in the quality of their meat. If you cannot afford Donald Russell, my next recommendation is Marks and Spencer.</p>
+        <p>Have fun trying out my recipes and please feel free to contact me with any suggestions or requests! </p>
+        <p>With food love,</p>
+        <p>Jodes</p>
+        <p>If you wish to get in contact please do via my Facebook and Instagram.</p>
+    </div>
+</section>
